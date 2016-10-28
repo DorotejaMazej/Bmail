@@ -1,0 +1,81 @@
+#header{
+
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 10%;
+}
+
+#logo{
+    display: block;
+    margin: auto;
+    width: 116px;
+    height: 116px;
+    border-radius: 
+}
+#text1{
+    font-family: arial;
+    text-align: center;
+    font-size: 24px;
+    
+}
+#text2{
+    font-family: arial;
+    text-align: center;
+    font-size: 16px;
+    
+}
+#card{
+    font-size: 13px;
+    position: relative;
+    margin: auto;
+    margin-left: 210px;
+    margin-right: 210px;
+    padding: 40px;
+    padding-bottom: 60px;
+    background-color: #F7F7F7;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 1px 3px 1px rgb(200,200,200)
+}
+
+.img-circle {
+    border-radius: 50%; 
+}
+
+.custom {
+    width: 280px !important;
+    margin-top: 7px;
+}
+#card a{
+    float: right;
+    padding-right: 5px;
+}
+#card1{
+    font-size: 13px;
+    display: block;
+    margin: auto;
+    text-align: center;
+  
+}
+
+.logo strip{
+    text-align: center;
+    
+}
+
+
+.velikost{
+    height: 45px;
+    width: 1233px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+#footer a{
+    position:relative;
+    font-size: 12px;
+    color: #737373;
+   
+}
